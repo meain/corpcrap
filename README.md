@@ -23,7 +23,7 @@ Do a go install after cloning.
 
 #### Why
 
-I used to use `fortune` to display something when I start a shell.
+I used to use `fortune` to [display something when I start a shell](https://github.com/meain/dotfiles/blob/c76d215be1875cbf75e64852bcaeffee538c7ea4/zsh/.zshrc#L11).
 Just to replace that. This is a bit more funny and _useless_.
 
 > Just a go rewrite of [sameerkumar18/corporate-bs-generator-api](https://github.com/sameerkumar18/corporate-bs-generator-api/)
