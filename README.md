@@ -11,6 +11,16 @@ Proactively utilize efficient convergence
 Rapidiously transform resource-sucking clouds
 ```
 
+
+#### Installation
+
+Just pull the binary you need from the releases page and put it in one of the dirs in `$PATH`.
+
+*OR*
+
+Do a go install after cloning.
+
+
 #### Why
 
 I used to use `fortune` to display something when I start a shell.
