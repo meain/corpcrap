@@ -14,6 +14,15 @@ Rapidiously transform resource-sucking clouds
 
 #### Installation
 
+##### macOS
+
+```
+brew tap meain/homebrew-meain
+brew install meain/homebrew-meain/corpcrap
+```
+
+##### Manual
+
 Just pull the binary you need from the releases page and put it in one of the dirs in `$PATH`.
 
 *OR*
